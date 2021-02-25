@@ -3,17 +3,17 @@
 +==============================================================*/
 
 /*---------------------------------------------------------------------------------+
-| Specifies a temporary named result set, known as a common table expression (CTE) |
+| WITH: Specifies a temporary named result set, known as a common table expression (CTE) |
 +---------------------------------------------------------------------------------*/
 
--->>>>> WITH_001 : All  Suppliers  and Customers from 'USA'
+-->>>>> WITH_001 : Retrieve all  Suppliers  and Customers from 'USA'
 	'Ans'
 						'REMARK: to Answer'
 --_________________________________________________________________________________________
 
 -->>>>> WITH_002 : Five most expensive  products  and the Supplier Companies that supply
 --				   those products.
-	'Ans'
+	'Ans Here'
 --_________________________________________________________________________________________
 
 
